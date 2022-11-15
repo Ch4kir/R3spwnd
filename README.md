@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @R3spwnd
-- 👀 I’m interested in working on python projects
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on any projects that includes Python
+- 👋 Hi, I’m @R3spwnd Mern-Stack developer 
+- 👀 I’m interested in working on MERN stack / Python projects 
 - 📫 How to reach me : chakir.fri@gmail.com
 
 <!---
