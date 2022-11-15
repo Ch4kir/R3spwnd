@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R3spwnd Mern-Stack developer 
+- 👋 Hi, I’m @R3spwnd MERN-Stack developer 
 - 👀 I’m interested in working on MERN stack / Python projects 
 - 📫 How to reach me : chakir.fri@gmail.com
 
